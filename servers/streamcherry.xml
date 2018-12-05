@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versione iniziale</changes>
+	<date>12/11/2017</date>
+	<free>true</free>
+	<id>streamcherry</id>
+	<name>streamcherry</name>
+	<premium>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_streamcherry.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>1</version>
+</server>

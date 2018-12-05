@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>false</active>
+	<changes>Disabled</changes>
+	<date>22/06/2017</date>
+	<free>true</free>
+	<id>torrent</id>
+	<name>torrent</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_torrent.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>2</version>
+</server>

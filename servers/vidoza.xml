@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>First Release</changes>
+	<date>30/07/2018</date>
+	<free>true</free>
+	<id>vidoza</id>
+	<name>vidoza</name>
+	<premium>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_vidoza.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>04</version>
+</server>

@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versi�n incial</changes>
+	<date>26/05/2016</date>
+	<free>true</free>
+	<id>redirects</id>
+	<name>redirects</name>
+	<premium></premium>
+	<thumbnail></thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>1</version>
+</server>

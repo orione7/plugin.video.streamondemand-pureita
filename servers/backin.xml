@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>30/04/2017</date>
+	<free>true</free>
+	<id>backin</id>
+	<name>backin</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_backin.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>2</version>
+</server>

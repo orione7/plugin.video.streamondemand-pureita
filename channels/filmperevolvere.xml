@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>filmperevolvere</id>
+	<name>Filmperevolvere</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>it</language>
+
+	<fanart></fanart>
+	<thumbnail>https://raw.githubusercontent.com/orione7/Pelis_images/master/bannermenu/filmperevolvere.png</thumbnail>
+	<bannermenu>https://raw.githubusercontent.com/orione7/Pelis_images/master/bannermenu/filmperevolvere.png</bannermenu>
+
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/channels/</update_url>
+	<version>112</version>
+	<date>16/09/2017</date>
+	<changes>Update</changes>
+
+    <categories>
+        <category>movie</category>
+    </categories>
+
+    <settings>
+        <include_in_global_search>true</include_in_global_search>
+        <id>include_in_global_search</id>
+        <type>bool</type>
+        <label>Incluir en busqueda global</label>
+        <default>true</default>
+        <enabled>true</enabled>
+        <visible>true</visible>
+    </settings>
+</channel>

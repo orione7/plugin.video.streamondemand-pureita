@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Fix</changes>
+	<date>29/10/2018</date>
+	<free>true</free>
+	<id>vidlox</id>
+	<name>vidloxtv</name>
+	<premium></premium>
+	<thumbnail>https://vidlox.tv/imgs/vidlox_white_colored.svg</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>05</version>
+</server>

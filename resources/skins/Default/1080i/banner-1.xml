@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window>
+  <defaultcontrol>100</defaultcontrol>
+  <allowoverlays>false</allowoverlays>
+  <controls>
+
+    <!-- ---------------------------- -->
+    <!-- main                         -->
+    <!-- ---------------------------- -->
+
+    <!-- background -->
+    <control type="image">
+      <posx>0</posx><posy>0</posy>
+      <width>2020</width><height>1180</height>
+      <fadetime>500</fadetime>
+      <texture>main-background-1.jpg</texture>
+    </control>
+    
+    <!-- header -->
+    <control type="image">
+      <posx>0</posx><posy>0</posy>
+      <width>2020</width><height>117</height>
+      <fadetime>500</fadetime>
+      <texture>main-header-1.jpg</texture>
+    </control>
+    
+    <!-- logo image -->
+    <control type="image">
+      <posx>10</posx><posy>11</posy>
+      <width>112</width><height>83</height>
+      <texture>main-logo.png</texture>
+    </control>
+
+    <!-- title -->
+    <control type="label" id="300">
+      <posx>175</posx><posy>30</posy>
+      <width>1701</width><height>52</height>
+      <font>font14</font>
+      <textcolor>FFCCCCCC</textcolor>
+      <align>left</align>
+      <label>Stream On Demand PureITA</label>
+    </control>
+
+    <!-- ---------------------------- -->
+    <!-- info                         -->
+    <!-- ---------------------------- -->
+
+    <!-- background -->
+    <control type="image">
+      <posx>20</posx><posy>121</posy>
+      <width>535</width><height>959</height>
+      <fadetime>500</fadetime>
+      <texture>info-background-1.png</texture>
+    </control>
+    
+    <!-- app version -->
+    <control type="label">
+      <posx>515</posx><posy>970</posy>
+      <width>428</width><height>60</height>
+      <font>font10</font>
+      <textcolor>FFCCCCCC</textcolor>
+      <align>right</align>
+      <label>StreamOnDemand PureITA: V.5.4.9</label>
+    </control>
+
+    <control type="label">
+      <posx>515</posx><posy>1000</posy>
+      <width>253</width><height>34</height>
+      <font>font10</font>
+      <textcolor>FFCCCCCC</textcolor>
+      <align>right</align>
+      <label>11/Novembre/2018</label>
+    </control>
+
+    <!-- ---------------------------- -->
+    <!-- list                         -->
+    <!-- ---------------------------- -->
+
+    <control type="list" id="100">
+      <posx>577</posx><posy>121</posy>
+      <width>1322</width><height>945</height>
+      <orientation>vertical</orientation>
+      <focusposition>1</focusposition>
+      <pagecontrol>200</pagecontrol>
+      <onleft>200</onleft>
+      <onright>200</onright>
+      
+      <animation effect="fade" time="200" start="0">WindowOpen</animation>
+      <animation effect="fade" time="200">WindowClose</animation>
+      
+      <!-- item -->
+      <itemlayout width="1322" height="136">
+
+        <control type="image">
+          <posx>13</posx><posy>13</posy>
+          <width>1271</width><height>111</height>
+          <texture>menu-nofocus-1.png</texture>
+        </control>
+
+        <control type="image">
+          <posx>12</posx><posy>12</posy>
+          <width>194</width><height>111</height>
+          <info>ListItem.Icon</info>
+          <aspectratio align="left" aligny="center">scale</aspectratio>
+        </control>
+
+        <control type="label">
+          <posx>203</posx><posy>13</posy>
+          <width>1272</width><height>111</height>
+          <font>font8</font>
+          <textcolor>FFFFFFFF</textcolor>
+          <align>left</align>
+          <aligny>center</aligny>
+          <info>ListItem.Label</info>
+        </control>
+
+      </itemlayout>
+
+      <!-- item con foco -->
+      <focusedlayout width="1322" height="136">
+
+        <control type="image">
+          <posx>0</posx><posy>0</posy>
+          <width>1294</width><height>138</height>
+          <texture>menu-focus-1.png</texture>
+        </control>
+
+        <control type="image">
+          <posx>14</posx><posy>12</posy>
+          <width>194</width><height>111</height>
+          <info>ListItem.Icon</info>
+          <aspectratio align="left" aligny="center">scale</aspectratio>
+        </control>
+
+        <control type="label">
+          <posx>205</posx><posy>13</posy>
+          <width>1272</width><height>111</height>
+          <font>font8</font>
+          <textcolor>FFFFFFFF</textcolor>
+          <align>left</align>
+          <aligny>center</aligny>
+          <info>ListItem.Label</info>
+        </control>
+
+      </focusedlayout>
+
+    </control>
+
+    <control type="scrollbar" id="200">
+        <description>Scroll bar control</description>
+        <posx>1876</posx><posy>131</posy>
+        <width>34</width><height>939</height>
+        <visible>true</visible>
+        <texturesliderbackground>menu-nofocus-1.png</texturesliderbackground>
+        <texturesliderbar>menu-nofocus-1.png</texturesliderbar>
+        <texturesliderbarfocus>menu-nofocus-1.png</texturesliderbarfocus>
+        <textureslidernib>scrollbar-nib.png</textureslidernib>
+        <textureslidernibfocus>white.png</textureslidernibfocus>
+        <pulseonselect></pulseonselect>
+        <orientation>vertical</orientation>
+        <showonepage>true</showonepage>
+        <onup>2</onup>
+        <ondown>3</ondown>
+        <onleft>100</onleft>
+        <onright>100</onright>
+    </control>
+
+  </controls>
+</window>

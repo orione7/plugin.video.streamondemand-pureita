@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>16/01/2017</date>
+	<free>true</free>
+	<id>ay8ou8ohth</id>
+	<name>ay8ou8ohth</name>
+	<premium>
+		<value>realdebrid</value>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_youwatch.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>1</version>
+</server>

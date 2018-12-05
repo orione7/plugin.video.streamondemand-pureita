@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>25/03/2016</date>
+	<free>false</free>
+	<id>one80upload</id>
+	<name>one80upload</name>
+	<premium>
+		<value>realdebrid</value>
+		<value>alldebrid</value>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_one80upload.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>1</version>
+</server>

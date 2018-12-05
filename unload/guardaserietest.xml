@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>guardaserietest</id>
+    <name>TEST - Guardaserie.net</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/guardaserietest.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>1</version>
+    <adult>false</version>
+    <date>21/11/2015</date>
+    <changes>Test per guardaserie dall'estero</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>

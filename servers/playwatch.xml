@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>First Release</changes>
+	<date>22/09/2017</date>
+	<free>true</free>
+	<id>playwatch</id>
+	<name>playwatch</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_playwatch.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>1</version>
+</server>

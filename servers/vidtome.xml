@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Update</changes>
+	<date>26/06/2017</date>
+	<free>false</free>
+	<id>vidtome</id>
+	<name>vidtome</name>
+	<premium>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_vidtome.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>1</version>
+</server>

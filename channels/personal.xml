@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>personal</id>
+	<name>Personal</name>
+	<language>es</language>
+	<update_url></update_url>
+	<active>false</active>
+	<include_in_global_search>disabled</include_in_global_search>
+	<version>11</version>
+	<adult>false</adult>
+	<date>01/07/2016</date>
+	<changes>Eliminato il codice non necessario.</changes>
+	<fanart></fanart>
+	<thumbnail></thumbnail>
+	<categories>
+		<category>anime</category>
+	</categories>
+</channel>

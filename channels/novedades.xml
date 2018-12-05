@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>novedades</id>
+	<name>Novedades</name>
+	
+	<active>false</active>
+	<adult>false</adult>
+	<language>it</language>
+	<include_in_global_search>disabled</include_in_global_search>
+	
+	<fanart></fanart>
+	<thumbnail></thumbnail>
+	
+	<update_url></update_url>
+	<version>123</version>
+	
+	<changes>
+		<change> 
+			<date>22/11/2018</date>
+			<autor>PureITA</autor>
+			<description>Possibility to include other channels, through configuration</description>
+		</change>
+	</changes>
+	
+	<categories>
+		<category>movie</category>
+	</categories>
+	
+	<settings>
+		<id>multithread</id>
+		<type>bool</type>
+		<label>MultiThread</label>
+		<default>false</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+	<settings>
+		<id>result_mode</id>
+		<type>list</type>
+		<label>Mostrar risultato:</label>
+    	<default>2</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+		<lvalues>Raggruppa per contenuto</lvalues>
+		<lvalues>Raggruppa per canale</lvalues>
+		<lvalues>Non raggruppare</lvalues>
+	</settings>
+
+</channel>

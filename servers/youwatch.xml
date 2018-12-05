@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>16/05/2017</date>
+	<free>true</free>
+	<id>youwatch</id>
+	<name>youwatch</name>
+	<premium>
+		<value>realdebrid</value>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_youwatch.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>3</version>
+</server>

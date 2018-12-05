@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>breakingbadita</id>
+    <name>BreakingBadITA Streaming</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/breakingbadita.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>1</version>
+    <adult>false</adult>
+    <date>21/10/2015</date>
+    <changes>Added channel</changes>
+    <categories>
+        <category>serie</category>
+        <category>vos</category>
+    </categories>
+</channel>

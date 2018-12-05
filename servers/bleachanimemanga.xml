@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Small Fix</changes>
+	<date>26/04/2017</date>
+	<free>true</free>
+	<id>bleachanimemanga</id>
+	<name>bleachanimemanga</name>
+	<premium>
+		<value>realdebrid</value>
+	</premium>
+	<thumbnail>http://www.bleachanimemanga.org/images/player/BAM.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>2</version>
+</server>

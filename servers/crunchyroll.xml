@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión inicial</changes>
+	<date>11/01/2017</date>
+	<free>true</free>
+	<id>crunchyroll</id>
+	<name>crunchyroll</name>
+	<premium></premium>
+	<thumbnail>http://i.imgur.com/SglkLAb.png?1</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>1</version>
+</server>

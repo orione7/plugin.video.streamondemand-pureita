@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+    <id>animesenzalimiti</id>
+    <name>AnimeSenzaLimiti</name>
+
+    <active>true</active>
+    <adult>false</adult>
+    <language>it</language>
+
+    <thumbnail>https://raw.githubusercontent.com/orione7/Pelis_images/master/bannermenu/animesenzalimiti.png</thumbnail>
+    <bannermenu>https://raw.githubusercontent.com/orione7/Pelis_images/master/bannermenu/animesenzalimiti.png</bannermenu>
+
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/channels/</update_url>
+    <version>115</version>
+    <date>24/08/2018</date>
+    <changes>Update and Fix</changes>
+
+    <categories>
+        <category>anime</category>
+    </categories>
+
+ 	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Includi ricerca globale</label>
+		<default>false</default>
+		<enabled>false</enabled>
+		<visible>true</visible>
+	</settings>
+
+	<settings>
+		<id>include_in_newest_anime</id>
+		<type>bool</type>
+		<label>Includi in novità - Anime</label>
+		<default>false</default>
+		<enabled>false</enabled>
+		<visible>false</visible>
+	</settings>
+</channel>

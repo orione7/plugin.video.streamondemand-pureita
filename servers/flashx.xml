@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Temporary Fix</changes>
+	<date>20/10/2018</date>
+	<free>true</free>
+	<id>flashx</id>
+	<name>flashx</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_flashx.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>25</version>
+</server>

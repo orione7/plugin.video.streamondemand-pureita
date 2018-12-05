@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>futuramaita</id>
+    <name>FuturamaITA Streaming</name>
+    <language>it</language>
+    <update_url></update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>4</version>
+    <adult>false</version>
+    <date>12/10/2015</date>
+    <changes>Anti-Cloudflare for movies</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+        <category>vos</category>
+    </categories>
+</channel>

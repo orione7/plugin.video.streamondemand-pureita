@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>foxycinema</id>
+    <name>Foxycinema</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/foxycinema.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>5</version>
+    <adult>false</adult>
+    <date>19/09/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+</channel>

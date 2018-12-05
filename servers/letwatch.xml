@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Reparado porque a veces devuelve enlace directo al video y no ofuscado</changes>
+	<date>04/06/2016</date>
+	<free>true</free>
+	<id>letwatch</id>
+	<name>letwatch</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_letwatch.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>2</version>
+</server>

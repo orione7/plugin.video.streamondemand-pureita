@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>cinefilm</id>
+    <name>Cinefilm</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/cinefilm.py</update_url>
+    <active>true</active>
+    <include_in_global_search>true</include_in_global_search>
+    <version>2</version>
+    <adult>false</adult>
+    <date>10/12/2015</date>
+    <changes>First release</changes>
+    <categories>
+        <category>movie</category>
+        <category>serie</category>
+    </categories>
+</channel>

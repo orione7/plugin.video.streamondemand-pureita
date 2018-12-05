@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>07/05/2016</date>
+	<free>true</free>
+	<id>playwire</id>
+	<name>playwire</name>
+	<premium></premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_playwire.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>1</version>
+</server>

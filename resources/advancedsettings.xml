@@ -1,0 +1,27 @@
+<advancedsettings>
+<network>
+    <buffermode>1</buffermode>
+    <cachemembuffersize>68157440</cachemembuffersize>
+    <readbufferfactor>20</readbufferfactor>
+    <autodetectpingtime>30</autodetectpingtime>
+    <curlclienttimeout>60</curlclienttimeout>
+    <curllowspeedtime>60</curllowspeedtime>
+    <curlretries>2</curlretries>
+    <disableipv6>true</disableipv6>
+</network>
+<gui>
+    <algorithmdirtyregions>0</algorithmdirtyregions>
+    <nofliptimeout>0</nofliptimeout>
+</gui>
+<playlistasfolders1>false</playlistasfolders1>
+<audio>
+    <defaultplayer>dvdplayer</defaultplayer> 
+</audio>
+    <imageres>540</imageres>
+    <fanartres>720</fanartres>
+    <splash>false</splash>
+    <handlemounting>0</handlemounting>
+<samba>
+    <clienttimeout>30</clienttimeout>
+</samba>
+</advancedsettings>

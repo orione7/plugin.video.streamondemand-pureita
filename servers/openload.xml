@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Fix - interchange v3 with the v5</changes>
+	<date>18/04/2018</date>
+	<free>true</free>
+	<id>openload</id>
+	<name>openload</name>
+	<premium>
+		<value>realdebrid</value>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_openload.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>39</version>
+</server>

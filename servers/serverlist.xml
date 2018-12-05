@@ -1,0 +1,1597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servers>
+<server>
+    <id>abysstream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/abysstream.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>adfly</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/adfly.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>10/02/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>adnstream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/adnstream.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>akstream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/akstream.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>alldebrid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/alldebrid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>allmyvideos</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/allmyvideos.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>ay8ou8ohth</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/ay8ou8ohth.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>backin</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/backin.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>30/04/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>bc</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/bc.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bitshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/bitshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bleachanimemanga</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/bleachanimemanga.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/05/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>bliptv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/bliptv.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cineraculo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cineraculo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>clipwatching</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/clipwatching.py</update_url>
+    <active>true</active>
+    <version>104</version>
+    <date>25/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>cloudifer</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cloudifer.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>11/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>cloudzer</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cloudzer.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cloudzilla</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cloudzilla.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cramit</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cramit.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>crunchyroll</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/crunchyroll.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>cumlouder</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/cumlouder.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>dailymotion</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/dailymotion.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>depositfiles</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/depositfiles.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>directo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/directo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>divxstage</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/divxstage.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>documentary</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/documentary.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>exashare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/exashare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>extabit</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/extabit.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>facebook</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/facebook.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fakingstv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fakingstv.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fastvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fastvideo.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fiberupload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fiberupload.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filebox</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filebox.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filefactory</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filefactory.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fileflyer</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fileflyer.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione </changes>
+</server>
+
+<server>
+    <id>filejungle</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filejungle.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filenium</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filenium.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filereactor</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filereactor.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fileserve</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fileserve.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filesmonster</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filesmonster.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>filesonic</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/filesonic.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>firedrive</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/firedrive.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>flashx</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/flashx.py</update_url>
+    <active>true</active>
+    <version>125</version>
+    <date>20/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>fooget</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fooget.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>fourshared</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/fourshared.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>freakshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/freakshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>gamovideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/gamovideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>gigasize</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/gigasize.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>googledrive</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/googledrive.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>googlevideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/googlevideo.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>04/07/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>hdload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/hdload.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hdplay</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/hdplay.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hotfile</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/hotfile.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>httptools</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/httptools.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>10/03/2017</date>
+    <changes>Update 1</changes>
+</server>
+
+<server>
+    <id>hugefiles</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/hugefiles.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>hulkshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/hulkshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>jumbofiles</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/jumbofiles.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>junkyvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/junkyvideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>justintv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/justintv.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>letitbit</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/letitbit.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>letwatch</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/letwatch.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>linkbucks</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/linkbucks.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>longurl</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/longurl.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>lumfile</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/lumfile.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>magnovideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/magnovideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mailru</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/mailru.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mediafire</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/mediafire.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>mega</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/mega.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>27/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>megadrive</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/megadrive.py</update_url>
+    <active>true</active>
+    <version>107</version>
+    <date>11/09/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>megahd</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/servers/megahd.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>25/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>meuvideos</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/meuvideos.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>modovideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/modovideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>moevideos</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/moevideos.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>movreel</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/movreel.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>movshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/movshare.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>15/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>netload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/netload.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>netutv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/netutv.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>12/11/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>nosvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/nosvideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>novamov</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/novamov.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>nowdownload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/nowdownload.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>nowvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/nowvideo.py</update_url>
+    <active>true</active>
+    <version>105</version>
+    <date>12/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>nubestream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/nubestream.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>oboom</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/oboom.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>okru</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/okru.py</update_url>
+    <active>true</active>
+    <version>104</version>
+    <date>11/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>one80upload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/one80upload.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>onefichier</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/onefichier.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>18/03/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>openload</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/openload.py</update_url>
+    <active>true</active>
+    <version>143</version>
+    <date>18/04/2018</date>
+    <changes>Update and Fix</changes>
+</server>
+
+<server>
+    <id>pyaes</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/pyaes.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>25/03/2016</date>
+    <changes>Prima versione in "servers"</changes>
+</server>
+
+<server>
+    <id>playedto</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/playedto.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>playwatch</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/playwatch.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>22/09/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+
+<server>
+    <id>powvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/powvideo.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>publicvideohost</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/publicvideohost.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>putlocker</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/putlocker.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>putstream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/putstream.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidgator</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rapidgator.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rapidshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidtube</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rapidtube.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rapidvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rapidvideo.py</update_url>
+    <active>true</active>
+    <version>106</version>
+    <date>08/06/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>rapidvideocom</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rapidvideocom.py</update_url>
+    <active>true</active>
+    <version>15</version>
+    <date>03/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>raptu</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/raptu.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>02/07/2017</date>
+    <changes>First Release</changes>
+</server>
+
+<server>
+    <id>realdebrid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/realdebrid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>realvid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/realvid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rocvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rocvideo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>royalvids</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/royalvids.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>rutube</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/rutube.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>safelinking</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/safelinking.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sendvid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/sendvid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>servertools</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/servertools.py</update_url>
+    <active>true</active>
+    <version>14</version>
+    <date>23/09/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>shareflare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/shareflare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sharpfile</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/sharpfile.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>sockshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/sockshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedvid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/speedvid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedplay</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/speedplay.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/03/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>speedvideo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/speedvideo.py</update_url>
+    <active>true</active>
+    <version>14</version>
+    <date>18/09/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>spruto</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/spruto.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>stagero</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/stagero.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>stagevu</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/stagevu.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streamable</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/streamable.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streamango</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/streamango.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>20/03/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>streamcherry</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/streamcherry.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>12/11/2017</date>
+    <changes>First release</changes>
+</server>
+
+<server>
+    <id>streamcloud</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/streamcloud.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>streaminto</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/streaminto.py</update_url>
+    <active>true</active>
+    <version>14</version>
+    <date>27/06/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>thevideome</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/thevideome.py</update_url>
+    <active>true</active>
+    <version>106</version>
+    <date>12/08/2018</date>
+    <changes>Update and Temporary Fix</changes>
+</server>
+
+<server>
+    <id>torrent</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/torrent.py</update_url>
+    <active>false</active>
+    <version>12</version>
+    <date>22/06/2017</date>
+    <changes>Disabled</changes>
+</server>
+
+<server>
+    <id>tumitv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/tumitv.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>tunepk</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/tunepk.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>turbobit</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/turbobit.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>tutv</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/tutv.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>twitvid</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/twitvid.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>ultramegabit</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/ultramegabit.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploadedto</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/uploadedto.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploading</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/uploading.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploadstation</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/uploadstation.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uploaz</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/uploaz.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>uptobox</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/uptobox.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>userporn</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/userporn.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>v4y</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/v4y.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veehd</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/veehd.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veevr</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/veevr.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>veoh</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/veoh.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidbull</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidbull.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidbux</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidbux.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>video4you</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/video4you.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videobam</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videobam.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videomega</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videomega.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videopremium</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videopremium.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videostoring</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videostoring.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+        <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videott</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videott.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videoweed</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videoweed.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videowood</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videowood.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videozed</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videozed.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>videozer</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/videozer.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidgg</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidgg.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>23/01/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidlox</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidlox.py</update_url>
+    <active>true</active>
+    <version>105</version>
+    <date>29/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+
+<server>
+    <id>vidoza</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidoza.py</update_url>
+    <active>true</active>
+    <version>104</version>
+    <date>30/07/2018</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vidhog</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidhog.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidspot</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidspot.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidtome</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidtome.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>04/07/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vidxden</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidxden.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidxtreme</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/servers/vidxtreme.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vidzi</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vidzi.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vimeo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vimeo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vimpleru</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vimpleru.py</update_url>
+    <active>true</active>
+    <version>12</version>
+    <date>17/11/2016</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>vk</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/servers/vk.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vkpass</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vkpass.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vodlocker</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vodlocker.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>vureel</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/vureel.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>watchers</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/watchers.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>05/06/2017</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>watchfreeinhd</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/watchfreeinhd.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>wstream</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/wstream.py</update_url>
+    <active>true</active>
+    <version>112</version>
+    <date>20/10/2018</date>
+    <changes>Temporary Fix</changes>
+</server>
+    
+<server>
+    <id>xmltoplaylist</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/xmltoplaylist.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>xvideos</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/xvideos.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>yahoo</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/yahoo.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>youtube</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/youtube.py</update_url>
+    <active>true</active>
+    <version>102</version>
+    <date>18/05/2018</date>
+    <changes>Prima versione - Update</changes>
+</server>
+
+<server>
+    <id>youwatch</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/youwatch.py</update_url>
+    <active>true</active>
+    <version>13</version>
+    <date>16/05/2017</date>
+    <changes>Update</changes>
+</server>
+
+<server>
+    <id>zinwa</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/zinwa.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>zippyshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/zippyshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+
+<server>
+    <id>zshare</id>
+    <update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/zshare.py</update_url>
+    <active>true</active>
+    <version>11</version>
+    <date>10/10/2016</date>
+    <changes>Prima versione</changes>
+</server>
+    
+</servers>

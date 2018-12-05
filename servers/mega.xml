@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versione iniziale</changes>
+	<date>27/06/2017</date>
+	<free>true</free>
+	<id>mega</id>
+	<name>mega</name>
+	<premium>
+		<value>realdebrid</value>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_mega.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/servers/</update_url>
+	<version>2</version>
+</server>

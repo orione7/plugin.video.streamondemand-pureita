@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channel>
+    <id>multiplayer</id>
+    <name>Multiplayer</name>
+    <language>it</language>
+    <update_url>https://raw.githubusercontent.com/Zanzibar82/plugin.video.streamondemand/master/channels/multiplayer.py</update_url>
+    <active>true</active>
+    <include_in_global_search>false</include_in_global_search>
+    <version>3</version>
+    <adult>false</version>
+    <date>03/10/2015</date>
+    <changes>Prima versione di Pelisalacarta 4</changes>
+    <categories>
+        <category>Documentaries</category>
+    </categories>
+</channel>

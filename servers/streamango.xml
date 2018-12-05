@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<server>
+	<active>true</active>
+	<changes>Versión incial</changes>
+	<date>20/03/2018</date>
+	<free>true</free>
+	<id>streamango</id>
+	<name>streamango</name>
+	<premium>
+	</premium>
+	<thumbnail>http://media.tvalacarta.info/servers/server_streamango.png</thumbnail>
+	<update_url>https://raw.githubusercontent.com/orione7/plugin.video.streamondemand-pureita/master/servers/</update_url>
+	<version>4</version>
+</server>
